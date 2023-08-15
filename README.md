@@ -12,4 +12,5 @@ AIX:
 
 <a href="https://github.com/anbran223/FWT/blob/main/f-w-t/out/com.brandonang.fwt.aix">Download V2</a>
 
-Check out My DynamicFWT Extension in the Releases section.
+Check out My DynamicFWT Extension in another Github Repository:
+https://github.com/BrandonAI2/DynamicFWT
